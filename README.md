@@ -22,9 +22,6 @@ The `Counter.razor` page contains:
 
 1. Clone this repository locally.
 2. Ensure you have the required .NET SDK installed (at least .NET 8.0).
-3. Open the solution in **JetBrains Rider 2024.2.6** or a similar IDE that supports .NET MAUI.
-4. Deploy and run the project targeting **Android** as a platform.
-   - You may also test this in other platforms (iOS, Mac Catalyst, or Windows) depending on your requirements.
 
 ## Instructions to Test for Touch Issues
 
