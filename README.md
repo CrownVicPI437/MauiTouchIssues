@@ -1,6 +1,6 @@
 ﻿# MauiTouchIssues
 
-This is a sample ASP.NET Blazor application implementing a simple counter functionality. Furthermore, this page includes multiple input fields, which may be tested to understand touch-related usability or performance issues in mobile environments.
+This is a sample ASP.NET Blazor application implementing a simple counter functionality. Furthermore, this page includes multiple input fields, which may be tested to understand touch-related usability or performance issues in mobile environments. This is intended to show the issues in MAUI Blazor with switching from using touch screen to the mouse / touch-pad.
 
 ## Project Overview
 
