@@ -28,7 +28,7 @@ The `Counter.razor` page contains:
 The following steps will help you reproduce any potential touch-related issues:
 
 1. **Launch the Application**:
-   - Run the application on an **Android device** or an Android Emulator.
+   - Run the application on an **Windows App**.
 
 2. **Navigate to Counter Page**:
    - Verify that the page renders properly, showing the counter, button, and a series of input fields.
